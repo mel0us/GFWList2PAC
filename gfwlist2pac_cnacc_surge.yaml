@@ -1,7 +1,7 @@
-# Checksum: MTc4MDM2MDg3MQo=
+# Checksum: MTc4MDQ0NzU3Nwo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.0-20260602-0
-# TimeUpdated: 2026-06-02T00:41:11+00:00
+# Version: 1.0.0-20260603-0
+# TimeUpdated: 2026-06-03T00:46:17+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000.link
@@ -24860,6 +24860,7 @@ DOMAIN-SUFFIX,cnside.com
 DOMAIN-SUFFIX,cnsihai.com
 DOMAIN-SUFFIX,cnsikao.com
 DOMAIN-SUFFIX,cnsimeng.com
+DOMAIN-SUFFIX,cnsimg.net
 DOMAIN-SUFFIX,cnsimin.com
 DOMAIN-SUFFIX,cnsiwu.com
 DOMAIN-SUFFIX,cnskg.com
@@ -90809,6 +90810,7 @@ DOMAIN-SUFFIX,tianxing.com
 DOMAIN-SUFFIX,tianxingjianyiliao.com
 DOMAIN-SUFFIX,tianxinkeji.com
 DOMAIN-SUFFIX,tianya.com
+DOMAIN-SUFFIX,tianya.net
 DOMAIN-SUFFIX,tianya.tv
 DOMAIN-SUFFIX,tianya66.com
 DOMAIN-SUFFIX,tianyabook.com
@@ -101843,6 +101845,7 @@ DOMAIN-SUFFIX,xinmeihu.com
 DOMAIN-SUFFIX,xinmeijiutian.com
 DOMAIN-SUFFIX,xinmeinuo.com
 DOMAIN-SUFFIX,xinmem.com
+DOMAIN-SUFFIX,xinmeng.info
 DOMAIN-SUFFIX,xinmenglife.com
 DOMAIN-SUFFIX,xinmeow.com
 DOMAIN-SUFFIX,xinmeti.com
