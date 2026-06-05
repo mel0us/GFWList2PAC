@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTc4MDUzMzk2MQo=
+! Checksum: MTc4MDYxOTkxNgo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20260604-0
-! TimeUpdated: 2026-06-04T00:46:01+00:00
+! Version: 1.0.0-20260605-0
+! TimeUpdated: 2026-06-05T00:38:36+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000.link
@@ -17902,6 +17902,7 @@
 ||brightdairy.com
 ||brightdecolighting.com
 ||brightfood.com
+||brighticecream.com
 ||brightliao.com
 ||brightmeat.com
 ||brilliance-auto.com
@@ -21900,6 +21901,7 @@
 ||chinacordblood.org
 ||chinacosco.com
 ||chinacourt.org
+||chinacow.com
 ||chinacpda.com
 ||chinacpda.org
 ||chinacqme.com
@@ -101728,6 +101730,7 @@
 ||xinlingletu.com
 ||xinlip.com
 ||xinlischool.com
+||xinlishumeng.com
 ||xinliwanju.com
 ||xinlixinli.net
 ||xinlong-holding.com
