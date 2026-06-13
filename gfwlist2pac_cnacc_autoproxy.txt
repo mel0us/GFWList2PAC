@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTc4MTIyNDkzOQo=
+! Checksum: MTc4MTMxMTMwNgo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20260612-0
-! TimeUpdated: 2026-06-12T00:42:19+00:00
+! Version: 1.0.0-20260613-0
+! TimeUpdated: 2026-06-13T00:41:46+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000.link
@@ -99165,6 +99165,7 @@
 ||www.nike.com
 ||www.nocc.akamai.com
 ||www.pxcc.com
+||www.recaptcha-cn.net
 ||www.recaptcha.net
 ||www.redhat.com
 ||www.samsung.com
