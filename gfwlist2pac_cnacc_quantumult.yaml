@@ -1,7 +1,7 @@
-# Checksum: MTc4MjY5MzQ4NAo=
+# Checksum: MTc4Mjc3OTc5Nwo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.0.0-20260629-0
-# TimeUpdated: 2026-06-29T00:38:04+00:00
+# Version: 1.0.0-20260630-0
+# TimeUpdated: 2026-06-30T00:36:37+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000.link,DIRECT
@@ -59396,7 +59396,6 @@ DOMAIN-SUFFIX,kscdns.com,DIRECT
 DOMAIN-SUFFIX,kschuangku.com,DIRECT
 DOMAIN-SUFFIX,kscloudapi.com,DIRECT
 DOMAIN-SUFFIX,ksco.cc,DIRECT
-DOMAIN-SUFFIX,kscord.com,DIRECT
 DOMAIN-SUFFIX,ksdedu.com,DIRECT
 DOMAIN-SUFFIX,ksdhgy.com,DIRECT
 DOMAIN-SUFFIX,ksecit.com,DIRECT
