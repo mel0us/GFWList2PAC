@@ -1,7 +1,7 @@
-# Checksum: MTc4MzIxODQ3NAo=
+# Checksum: MTc4MzMwNTE0Mwo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.0-20260705-0
-# TimeUpdated: 2026-07-05T02:27:54+00:00
+# Version: 1.0.0-20260706-0
+# TimeUpdated: 2026-07-06T02:32:23+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000.link
@@ -33015,6 +33015,7 @@ DOMAIN-SUFFIX,enterprise-insights.dji.com
 DOMAIN-SUFFIX,enterprise.dji.com
 DOMAIN-SUFFIX,entertainment.dji.com
 DOMAIN-SUFFIX,enthalpy.space
+DOMAIN-SUFFIX,entitlements-edge.itunes.apple.com
 DOMAIN-SUFFIX,entive.com
 DOMAIN-SUFFIX,entstudy.com
 DOMAIN-SUFFIX,entts.com
@@ -35928,6 +35929,7 @@ DOMAIN-SUFFIX,fphis.com
 DOMAIN-SUFFIX,fphs.cc
 DOMAIN-SUFFIX,fphs5.com
 DOMAIN-SUFFIX,fpi-inc.com
+DOMAIN-SUFFIX,fpinit.itunes.apple.com
 DOMAIN-SUFFIX,fpliu.com
 DOMAIN-SUFFIX,fpsace.com
 DOMAIN-SUFFIX,fpsjk.com

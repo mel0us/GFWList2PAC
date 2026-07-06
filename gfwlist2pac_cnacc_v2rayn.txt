@@ -1,7 +1,7 @@
-# Checksum: MTc4MzIxODQ3NAo=
+# Checksum: MTc4MzMwNTE0Mwo=
 # Title: Zhijie's CNACCList for v2rayN
-# Version: 1.0.0-20260705-0
-# TimeUpdated: 2026-07-05T02:27:54+00:00
+# Version: 1.0.0-20260706-0
+# TimeUpdated: 2026-07-06T02:32:23+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 domain:000.link,
@@ -33015,6 +33015,7 @@ domain:enterprise-insights.dji.com,
 domain:enterprise.dji.com,
 domain:entertainment.dji.com,
 domain:enthalpy.space,
+domain:entitlements-edge.itunes.apple.com,
 domain:entive.com,
 domain:entstudy.com,
 domain:entts.com,
@@ -35928,6 +35929,7 @@ domain:fphis.com,
 domain:fphs.cc,
 domain:fphs5.com,
 domain:fpi-inc.com,
+domain:fpinit.itunes.apple.com,
 domain:fpliu.com,
 domain:fpsace.com,
 domain:fpsjk.com,
