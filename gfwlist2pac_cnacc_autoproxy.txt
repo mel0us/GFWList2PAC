@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTc4NDE2NzA4MQo=
+! Checksum: MTc4NDI1MzY5OQo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20260716-0
-! TimeUpdated: 2026-07-16T01:58:01+00:00
+! Version: 1.0.0-20260717-0
+! TimeUpdated: 2026-07-17T02:01:39+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000.link
@@ -89194,7 +89194,6 @@
 ||teshenqi.com
 ||tesight.com
 ||tesiro.com
-||tesla-cdn.thron.cn
 ||tesolsh.com
 ||tesoon.com
 ||test-cignacmb.com
@@ -89499,7 +89498,6 @@
 ||threetong.com
 ||threewater.net
 ||thrive-chemicals.com
-||thron.cn
 ||ths123.com
 ||ths8.com
 ||thsj.com
