@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTc4NDI1MzY5OQo=
+! Checksum: MTc4NDMzOTQ1OAo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20260717-0
-! TimeUpdated: 2026-07-17T02:01:39+00:00
+! Version: 1.0.0-20260718-0
+! TimeUpdated: 2026-07-18T01:50:58+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000.link
@@ -12552,6 +12552,7 @@
 ||api-vod-qcloud.com
 ||api.alibabacloud.com
 ||api.anythinktech.com
+||api.blipsandchitz.me
 ||api.cnno1.uds.lenovo.com
 ||api.crisp.chat
 ||api.djiservice.org
@@ -16963,6 +16964,7 @@
 ||blingabc.com
 ||blinghour.com
 ||blingoffice.com
+||blipsandchitz.me
 ||blissmall.net
 ||blizzardcn.com
 ||blju.com
@@ -28261,6 +28263,7 @@
 ||dcyz.com
 ||dcyzq.com
 ||dczcsc.com
+||dczcy.com
 ||dczkj.com
 ||dczy168.com
 ||dd-advisor.com
@@ -29258,6 +29261,7 @@
 ||didichuxing.com
 ||dididapiao.com
 ||dididi88.com
+||didifinance.com
 ||didiglobal.com
 ||didimobility.co.jp
 ||didimobility.com
@@ -36199,6 +36203,7 @@
 ||fuca-china.com
 ||fucantec.com
 ||fuchaipower.com
+||fuchenkj.com
 ||fuchuangyu.com
 ||fucnm.com
 ||fucol.club
@@ -47510,6 +47515,7 @@
 ||hrs100.com
 ||hrsalon.org
 ||hrsay.com
+||hrsecn.com
 ||hrsee.com
 ||hrsel.com
 ||hrsoft-china.com
@@ -54231,6 +54237,7 @@
 ||jieshui8.com
 ||jieshuitech.com
 ||jieshuwang.com
+||jietianz.com
 ||jietu365.com
 ||jietuhb.com
 ||jietuosh.com
@@ -80346,6 +80353,7 @@
 ||sdseshealth.com
 ||sdsfjy.com
 ||sdshangya.com
+||sdshdc.com
 ||sdshgk.com
 ||sdshihua.com
 ||sdshitu.com
@@ -82061,6 +82069,7 @@
 ||shicaizhanlan.com
 ||shicehao.com
 ||shichangbu.com
+||shicheng6.com
 ||shichengbao.com
 ||shichengyi.com
 ||shichuangsj.com
@@ -92619,6 +92628,7 @@
 ||ulikestatic.com
 ||ulinix.com
 ||ulinix.tv
+||ulongemg.com
 ||ulpay.com
 ||ultracachenode.com
 ||ultraeda.com
@@ -107462,6 +107472,7 @@
 ||yximgs.com
 ||yxin18.com
 ||yxinbao.com
+||yxingfan.com
 ||yxintent.com
 ||yxit.net
 ||yxixy.com
