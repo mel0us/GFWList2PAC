@@ -1,7 +1,7 @@
-# Checksum: MTc4NDMzOTQ1OAo=
+# Checksum: MTc4NDQyNjQ3MQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.0-20260718-0
-# TimeUpdated: 2026-07-18T01:50:58+00:00
+# Version: 1.0.0-20260719-0
+# TimeUpdated: 2026-07-19T02:01:11+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000.link
@@ -67925,6 +67925,7 @@ DOMAIN-SUFFIX,mychuguan.com
 DOMAIN-SUFFIX,mychunyan.net
 DOMAIN-SUFFIX,myckjr.com
 DOMAIN-SUFFIX,mycleanmymac.com
+DOMAIN-SUFFIX,mycloudnas.com
 DOMAIN-SUFFIX,mycloudstudy.com
 DOMAIN-SUFFIX,myclub2.com
 DOMAIN-SUFFIX,mycnc.org
