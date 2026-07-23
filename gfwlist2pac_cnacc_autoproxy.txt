@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTc4NDY4NTUzNgo=
+! Checksum: MTc4NDc3MjM2Nwo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20260722-0
-! TimeUpdated: 2026-07-22T01:58:56+00:00
+! Version: 1.0.0-20260723-0
+! TimeUpdated: 2026-07-23T02:06:07+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000.link
@@ -19594,6 +19594,7 @@
 ||cd-zc.com
 ||cd00c44f211031.beer
 ||cd120.com
+||cd120.info
 ||cd12371.com
 ||cd1958.com
 ||cd20.net
@@ -67020,6 +67021,7 @@
 ||moe321.com
 ||moeclub.org
 ||moedot.net
+||moedu.com
 ||moeelf.com
 ||moefactory.com
 ||moefantasy.com
@@ -91400,6 +91402,7 @@
 ||tsingpost.com
 ||tsingshang.com
 ||tsingtek.com
+||tsingtengms.com
 ||tsingtoo.com
 ||tsingtuo.com
 ||tsingyangroup.com
@@ -99119,6 +99122,7 @@
 ||xcxymw.com
 ||xcxzww.com
 ||xcyg.net
+||xcz.im
 ||xczhmzb.com
 ||xczhsh.com
 ||xczim.com
