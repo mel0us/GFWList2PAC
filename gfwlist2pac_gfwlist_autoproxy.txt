@@ -1,7 +1,7 @@
 [AutoProxy 0.2.9]
-! Checksum: MTc4NTI5MDI2NAo=
+! Checksum: MTc4NTM3NjEyNwo=
 ! Title: Zhijie's GFWList for Auto Proxy
-! Version: 1.0.0-20260729-0
-! TimeUpdated: 2026-07-29T01:57:44+00:00
+! Version: 1.0.0-20260730-0
+! TimeUpdated: 2026-07-30T01:48:47+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
