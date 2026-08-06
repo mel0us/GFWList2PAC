@@ -1,7 +1,7 @@
-# Checksum: MTc4NTg5NDc2OQo=
+# Checksum: MTc4NTk4MTI5OQo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.0-20260805-0
-# TimeUpdated: 2026-08-05T01:52:49+00:00
+# Version: 1.0.0-20260806-0
+# TimeUpdated: 2026-08-06T01:54:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000.link
@@ -89595,6 +89595,8 @@ DOMAIN-SUFFIX,tj-guangxin.com
 DOMAIN-SUFFIX,tj-kingdee.com
 DOMAIN-SUFFIX,tj-model.com
 DOMAIN-SUFFIX,tj-pod1-smp-device.apple.com
+DOMAIN-SUFFIX,tj-pod2-smp-device.apple.com
+DOMAIN-SUFFIX,tj-pod3-smp-device.apple.com
 DOMAIN-SUFFIX,tj-un.com
 DOMAIN-SUFFIX,tj0573.com
 DOMAIN-SUFFIX,tj20.com
