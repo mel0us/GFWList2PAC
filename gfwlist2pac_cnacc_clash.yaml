@@ -1,8 +1,8 @@
 payload:
-# Checksum: MTc4NjE1MTA4Nwo=
+# Checksum: MTc4NjIzNzczOQo=
 # Title: Zhijie's CNACCList for Clash
-# Version: 1.0.0-20260808-0
-# TimeUpdated: 2026-08-08T01:04:47+00:00
+# Version: 1.0.0-20260809-0
+# TimeUpdated: 2026-08-09T01:08:59+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
   - DOMAIN-SUFFIX,000.link
@@ -61270,6 +61270,7 @@ payload:
   - DOMAIN-SUFFIX,lifevc.com
   - DOMAIN-SUFFIX,lifevccdn.com
   - DOMAIN-SUFFIX,lifeweeker.com
+  - DOMAIN-SUFFIX,lifexue.com
   - DOMAIN-SUFFIX,lifeyk.com
   - DOMAIN-SUFFIX,lifeyn.net
   - DOMAIN-SUFFIX,lifezb.com
