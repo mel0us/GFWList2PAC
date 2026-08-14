@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTc4NjU4Mzk0MAo=
+! Checksum: MTc4NjY3MDI5Mwo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20260813-0
-! TimeUpdated: 2026-08-13T01:19:00+00:00
+! Version: 1.0.0-20260814-0
+! TimeUpdated: 2026-08-14T01:18:13+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000.link
@@ -2420,6 +2420,7 @@
 ||194nb.com
 ||195155.com
 ||195268032591463.icu
+||1958xy.com
 ||195idc.com
 ||196b7adb23969e39.com
 ||196g.com
@@ -4069,6 +4070,7 @@
 ||36kr.net
 ||36krcdn.com
 ||36krcnd.com
+||36linkr.com
 ||36pnes36t0qs.com
 ||36qp.com
 ||36rv3j3.shop
@@ -14220,7 +14222,6 @@
 ||bamboofactorychina.com
 ||bambooolab.com
 ||bambu-lab.com
-||bambulab.com
 ||bamengame.com
 ||bamensq.com
 ||bamenzhushou.com
@@ -16784,6 +16785,7 @@
 ||bktsj.com
 ||bkvps.com
 ||bkweek.com
+||bkzhibo.com
 ||bkzzy.com
 ||bl.com
 ||bl0757.com
@@ -53256,6 +53258,7 @@
 ||jgsemicon.com
 ||jgstour.com
 ||jgsxfw.com
+||jgtab.link
 ||jgtc315.com
 ||jguanjia.com
 ||jgums.com
@@ -55013,6 +55016,7 @@
 ||jkyule.com
 ||jkzhilu.com
 ||jkzl.com
+||jkzlrs.com
 ||jkzn365.com
 ||jl-er.com
 ||jl-jssk.com
@@ -56682,6 +56686,7 @@
 ||juwanhezi.com
 ||juwanshe.com
 ||juweixin.com
+||juwinmedia.com
 ||juxia.com
 ||juxian.com
 ||juxiang3d.com
@@ -86239,6 +86244,7 @@
 ||sxyj.net
 ||sxyqgs.asia
 ||sxyyc.net
+||sxyygh.com
 ||sxzhaobiao.com
 ||sxzhongfei.com
 ||sxzhyy.com
@@ -98877,6 +98883,7 @@
 ||xhscdn.net
 ||xhsd.com
 ||xhsd.net
+||xhsdzd.com
 ||xhsf.com
 ||xhslink.com
 ||xhslw.com
