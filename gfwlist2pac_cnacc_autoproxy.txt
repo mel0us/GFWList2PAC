@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTc4ODkyMTAwOAo=
+! Checksum: MTc4OTAwNzQ1OQo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20260909-0
-! TimeUpdated: 2026-09-09T02:30:08+00:00
+! Version: 1.0.0-20260910-0
+! TimeUpdated: 2026-09-10T02:30:59+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000.link
@@ -105585,6 +105585,7 @@
 ||yuanpanguoji.com
 ||yuanqiao.net
 ||yuanqiao.pw
+||yuanqidesk.com
 ||yuanqilt.com
 ||yuanqingsh.com
 ||yuanqisenlin.com
