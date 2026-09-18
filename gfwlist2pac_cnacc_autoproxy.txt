@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTc4OTYxMzQwMQo=
+! Checksum: MTc4OTY5ODk5OQo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20260917-0
-! TimeUpdated: 2026-09-17T02:50:01+00:00
+! Version: 1.0.0-20260918-0
+! TimeUpdated: 2026-09-18T02:36:39+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000.link
