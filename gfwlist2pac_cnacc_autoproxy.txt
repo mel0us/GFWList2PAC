@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTc5MTY4ODcyNwo=
+! Checksum: MTc5MTc3NjUwNAo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20261011-1
-! TimeUpdated: 2026-10-11T03:18:47+00:00
+! Version: 1.0.0-20261012-1
+! TimeUpdated: 2026-10-12T03:41:44+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000.link
@@ -8664,7 +8664,6 @@
 ||91sem.cc
 ||91sfdj.com
 ||91shenfan.com
-||91short.com
 ||91shouce.com
 ||91smart.net
 ||91soer.com
@@ -10586,6 +10585,7 @@
 ||aibeike.com
 ||aibiaomei.com
 ||aibiaow.com
+||aibilun.com
 ||aibing.cc
 ||aibll.com
 ||aibo123.com
@@ -11582,6 +11582,7 @@
 ||aliyunwaf4.com
 ||aliyunwaf5.com
 ||aliyunx.com
+||alizch.com
 ||alizhaopin.com
 ||alizhizhu.com
 ||alizila.com
@@ -20118,6 +20119,7 @@
 ||cfd-china.com
 ||cfd163.com
 ||cfdns43.com
+||cfdns46.com
 ||cfdns5.com
 ||cfdns81.com
 ||cfdp.org
@@ -24593,6 +24595,7 @@
 ||codeaha.com
 ||codebaoku.com
 ||codebe.org
+||codebuddy.ai
 ||codebuddy.info
 ||codebuddy.net
 ||codebuddy.pro
@@ -29755,6 +29758,7 @@
 ||dnsjiasu001.com
 ||dnsjp.cc
 ||dnsjxla.com
+||dnski.com
 ||dnslin.com
 ||dnsmeasurement.com
 ||dnsmsn.com
@@ -60810,6 +60814,7 @@
 ||lewenss.com
 ||lewenxsw.com
 ||lewifi.com
+||lewl88.com
 ||lex.download.prss.microsoft.com
 ||lexar.com
 ||lexed.org
@@ -72367,6 +72372,7 @@
 ||pcdrv.com
 ||pcdtg.com
 ||pceggs.com
+||pcelves.com
 ||pceva.net
 ||pcfphs.com
 ||pcfreetime.com
@@ -75590,6 +75596,7 @@
 ||qldgd.com
 ||qldzj.com
 ||qledu.net
+||qlgfdns.com
 ||qlhimalayantm.com
 ||qlife-lab.com
 ||qliksense.lenovo.com
@@ -97106,6 +97113,7 @@
 ||wordscheck.com
 ||wordstorming.com
 ||wordsunny.com
+||workbuddy.ai
 ||workbuddy.host
 ||workbuddy.link
 ||workchat.com
