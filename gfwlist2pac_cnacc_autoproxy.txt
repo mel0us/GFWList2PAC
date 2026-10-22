@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTc5MjU1MDk3MAo=
+! Checksum: MTc5MjYzNzI4OQo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20261021-0
-! TimeUpdated: 2026-10-21T02:49:30+00:00
+! Version: 1.0.0-20261022-0
+! TimeUpdated: 2026-10-22T02:48:09+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000.link
@@ -86260,6 +86260,8 @@
 ||szty56.com
 ||sztz.org
 ||sztzzs.com
+||szu.app
+||szu.moe
 ||szuavia.org
 ||szudad.com
 ||szunionlab.com
