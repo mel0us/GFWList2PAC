@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTc5Mjg5NjAwNwo=
+! Checksum: MTc5Mjk4MjI5OAo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20261025-0
-! TimeUpdated: 2026-10-25T02:40:07+00:00
+! Version: 1.0.0-20261026-0
+! TimeUpdated: 2026-10-26T02:38:18+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000.link
@@ -12081,6 +12081,7 @@
 ||app-site-association.cdn-apple.com
 ||app-static.com
 ||app-store.dji.com
+||app.moegirl.org.cn
 ||app111.com
 ||app111.org
 ||app16688.com
@@ -19245,6 +19246,7 @@
 ||cdqz.net
 ||cdrbs.net
 ||cdrcb.com
+||cdrcbank.com
 ||cdren.net
 ||cdrich.com
 ||cdrjob.com
@@ -25206,6 +25208,7 @@
 ||cqyygz.com
 ||cqyyjc.com
 ||cqyysx.com
+||cqyyxc.com
 ||cqyyzy.com
 ||cqyznews.com
 ||cqzbcg.com
@@ -48955,6 +48958,7 @@
 ||ibaizhu.com
 ||ibanana.club
 ||ibanbu.com
+||ibangbank.com
 ||ibanggo.com
 ||ibangkf.com
 ||ibangtiao.com
@@ -51113,6 +51117,7 @@
 ||isi-gf.com
 ||isiabio.com
 ||isign.ren
+||isigning.com
 ||isigu.com
 ||isilent.me
 ||isilicontech.com
@@ -67059,6 +67064,7 @@
 ||nannjlnk.com
 ||nanobody-biolab.com
 ||nanochrom.com
+||nanocorechip.com
 ||nanoeast.net
 ||nanoer.net
 ||nanoinglobal.com
@@ -84036,6 +84042,7 @@
 ||stonexp.com
 ||stor-age.com
 ||stor-helper.com
+||storage.moegirl.org.cn
 ||storcezon.com
 ||store.apple.com
 ||store.apple.com.edgekey.net
