@@ -1,7 +1,7 @@
-# Checksum: MTc5MzMzMjM0Nwo=
+# Checksum: MTc5MzQxNzgwNgo=
 # Title: Zhijie's CNACCList for Surge
-# Version: 1.0.0-20261030-1
-# TimeUpdated: 2026-10-30T03:52:27+00:00
+# Version: 1.0.0-20261031-1
+# TimeUpdated: 2026-10-31T03:36:46+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000.link
@@ -8461,6 +8461,7 @@ DOMAIN-SUFFIX,92gyw.com
 DOMAIN-SUFFIX,92hidc.net
 DOMAIN-SUFFIX,92kaifa.com
 DOMAIN-SUFFIX,92kk.com
+DOMAIN-SUFFIX,92kun.com
 DOMAIN-SUFFIX,92le.com
 DOMAIN-SUFFIX,92lm.com
 DOMAIN-SUFFIX,92lucky.com
@@ -18314,6 +18315,7 @@ DOMAIN-SUFFIX,capvision.com
 DOMAIN-SUFFIX,capwhale.com
 DOMAIN-SUFFIX,caqzlsgs.com
 DOMAIN-SUFFIX,car-metaverse.com
+DOMAIN-SUFFIX,car-vacation.com
 DOMAIN-SUFFIX,car0575.com
 DOMAIN-SUFFIX,car2sharechina.com
 DOMAIN-SUFFIX,car369.com
@@ -48152,6 +48154,7 @@ DOMAIN-SUFFIX,hxledu.com
 DOMAIN-SUFFIX,hxlhjt.com
 DOMAIN-SUFFIX,hxljjt.com
 DOMAIN-SUFFIX,hxlot.com
+DOMAIN-SUFFIX,hxlove22s.cc
 DOMAIN-SUFFIX,hxlsw.com
 DOMAIN-SUFFIX,hxltcj.com
 DOMAIN-SUFFIX,hxlxx.com
@@ -58231,6 +58234,7 @@ DOMAIN-SUFFIX,ktvsky.com
 DOMAIN-SUFFIX,ktwap.net
 DOMAIN-SUFFIX,ktxuexi.com
 DOMAIN-SUFFIX,ktyunlianjie.com
+DOMAIN-SUFFIX,ktzgame.com
 DOMAIN-SUFFIX,ku25.com
 DOMAIN-SUFFIX,ku33a.net
 DOMAIN-SUFFIX,ku6.com
