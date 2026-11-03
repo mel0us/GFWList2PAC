@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTc5MzU5MTI3Nwo=
+! Checksum: MTc5MzY4MTUwNgo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20261102-1
-! TimeUpdated: 2026-11-02T03:47:57+00:00
+! Version: 1.0.0-20261103-1
+! TimeUpdated: 2026-11-03T04:51:46+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000.link
@@ -17183,6 +17183,7 @@
 ||bustoprint.com
 ||bustruckexpo.com
 ||busuanzi.cc
+||busyming.com
 ||busytrade.com
 ||but7.com
 ||butair.com
@@ -29412,6 +29413,7 @@
 ||doubanio.com
 ||doubao-dev.com
 ||doubao.com
+||doubaoapps.com
 ||doubaocdn.com
 ||doubaozhidao.com
 ||doubean.com
@@ -110491,6 +110493,7 @@
 ||zymc1.com
 ||zymkcdn.com
 ||zymkshop.com
+||zymls.com
 ||zyoffice.com
 ||zyoo.net
 ||zyoogame.com
