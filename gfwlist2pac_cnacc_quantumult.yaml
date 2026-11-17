@@ -1,7 +1,7 @@
-# Checksum: MTc5NDgwMjMwOQo=
+# Checksum: MTc5NDg5NTEwNQo=
 # Title: Zhijie's CNACCList for Quantumult
-# Version: 1.0.0-20261116-1
-# TimeUpdated: 2026-11-16T04:11:49+00:00
+# Version: 1.0.0-20261117-1
+# TimeUpdated: 2026-11-17T05:58:25+00:00
 # Expires: 3 hours (update frequency)
 # Homepage: https://github.com/hezhijie0327/GFWList2PAC
 DOMAIN-SUFFIX,000.link,DIRECT
@@ -18131,6 +18131,7 @@ DOMAIN-SUFFIX,caps-china.org,DIRECT
 DOMAIN-SUFFIX,capsuleshanghai.com,DIRECT
 DOMAIN-SUFFIX,captain-cro.com,DIRECT
 DOMAIN-SUFFIX,captainbi.com,DIRECT
+DOMAIN-SUFFIX,captive.apple.com,DIRECT
 DOMAIN-SUFFIX,capturetheflag.fun,DIRECT
 DOMAIN-SUFFIX,capvision.com,DIRECT
 DOMAIN-SUFFIX,capwhale.com,DIRECT
@@ -24151,6 +24152,7 @@ DOMAIN-SUFFIX,conergas.net,DIRECT
 DOMAIN-SUFFIX,conew.com,DIRECT
 DOMAIN-SUFFIX,configuration.apple.com,DIRECT
 DOMAIN-SUFFIX,configuration.apple.com.akadns.net,DIRECT
+DOMAIN-SUFFIX,configuration.ls.apple.com,DIRECT
 DOMAIN-SUFFIX,confluxrpc.com,DIRECT
 DOMAIN-SUFFIX,conghua.com,DIRECT
 DOMAIN-SUFFIX,congmiqq.com,DIRECT
@@ -66257,6 +66259,7 @@ DOMAIN-SUFFIX,musicedu8.com,DIRECT
 DOMAIN-SUFFIX,musiceol.com,DIRECT
 DOMAIN-SUFFIX,musicgw.com,DIRECT
 DOMAIN-SUFFIX,musiclemon.net,DIRECT
+DOMAIN-SUFFIX,musicstatus.itunes.apple.com,DIRECT
 DOMAIN-SUFFIX,musicstatus.music.apple.com,DIRECT
 DOMAIN-SUFFIX,musiness.vip,DIRECT
 DOMAIN-SUFFIX,muslimwww.com,DIRECT
@@ -66819,6 +66822,7 @@ DOMAIN-SUFFIX,mzsemi.com,DIRECT
 DOMAIN-SUFFIX,mzsmn.com,DIRECT
 DOMAIN-SUFFIX,mzsrmyy.com,DIRECT
 DOMAIN-SUFFIX,mzssysmyxgs.com,DIRECT
+DOMAIN-SUFFIX,mzstorekit.itunes.apple.com,DIRECT
 DOMAIN-SUFFIX,mzsvn.com,DIRECT
 DOMAIN-SUFFIX,mztgame.com,DIRECT
 DOMAIN-SUFFIX,mztspa.com,DIRECT

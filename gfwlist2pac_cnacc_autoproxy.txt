@@ -1,8 +1,8 @@
 [AutoProxy 0.2.9]
-! Checksum: MTc5NDgwMjMwOQo=
+! Checksum: MTc5NDg5NTEwNQo=
 ! Title: Zhijie's CNACCList for Auto Proxy
-! Version: 1.0.0-20261116-1
-! TimeUpdated: 2026-11-16T04:11:49+00:00
+! Version: 1.0.0-20261117-1
+! TimeUpdated: 2026-11-17T05:58:25+00:00
 ! Expires: 3 hours (update frequency)
 ! Homepage: https://github.com/hezhijie0327/GFWList2PAC
 ||000.link
@@ -18132,6 +18132,7 @@
 ||capsuleshanghai.com
 ||captain-cro.com
 ||captainbi.com
+||captive.apple.com
 ||capturetheflag.fun
 ||capvision.com
 ||capwhale.com
@@ -24152,6 +24153,7 @@
 ||conew.com
 ||configuration.apple.com
 ||configuration.apple.com.akadns.net
+||configuration.ls.apple.com
 ||confluxrpc.com
 ||conghua.com
 ||congmiqq.com
@@ -66258,6 +66260,7 @@
 ||musiceol.com
 ||musicgw.com
 ||musiclemon.net
+||musicstatus.itunes.apple.com
 ||musicstatus.music.apple.com
 ||musiness.vip
 ||muslimwww.com
@@ -66820,6 +66823,7 @@
 ||mzsmn.com
 ||mzsrmyy.com
 ||mzssysmyxgs.com
+||mzstorekit.itunes.apple.com
 ||mzsvn.com
 ||mztgame.com
 ||mztspa.com
